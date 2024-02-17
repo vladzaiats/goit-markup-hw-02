@@ -2,3 +2,79 @@ ul,
 ol {
   list-style-type: none;
 }
+
+a {
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+img {
+  display: block;
+}
+
+.page-header {
+}
+
+.page-nav {
+}
+.logo-header {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+.logo-header-color {
+  color: #4d5ae5;
+}
+.menu {
+}
+.menu-item {
+}
+.menu-link {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.menu-link:hover,
+.menu-link:focus {
+  color: #404bbf;
+}
+
+.address-info {
+  font-style: normal;
+}
+.address-info-link {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.address-info-link:hover,
+.address-info-link:focus {
+  color: #404bbf;
+}
+
+.first-section {
+}
+
+.main-title {
+}
+
+.title-btn {
+}
+.benefits-title {
+}
+.benefits-title-list {
+}
+
+.benefits-info {
+}
