@@ -14,11 +14,10 @@ button {
 img {
   display: block;
 }
-
-.page-header {
-}
-
-.page-nav {
+body {
+  font-family: "Roboto", sans-serif;
+  color: #2e2f42;
+  background-color: #fff;
 }
 .logo-header {
   font-family: "Raleway", sans-serif;
@@ -32,10 +31,7 @@ img {
 .logo-header-color {
   color: #4d5ae5;
 }
-.menu {
-}
-.menu-item {
-}
+
 .menu-link {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -64,17 +60,100 @@ img {
 }
 
 .first-section {
+  background: #2e2f42;
 }
 
 .main-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
 }
 
 .title-btn {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+}
+.title-btn:hover,
+.title-btn:focus {
+  background: #404bbf;
 }
 .benefits-title {
+  line-height: 1.2;
 }
 .benefits-title-list {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .benefits-info {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.team-section {
+  background: #f4f4fd;
+}
+
+.section-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
+}
+.team-list {
+  background: #fff;
+}
+.team-name-list {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+.team-person-job {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+.portfolio-titles {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.portfolio-info {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.logo-footer {
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #f4f4fd;
+}
+.logo-footer-color {
+  color: #4d5ae5;
+}
+.page-footer {
+  background: #2e2f42;
+}
+.page-footer-info {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
