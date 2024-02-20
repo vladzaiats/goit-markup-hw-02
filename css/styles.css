@@ -77,11 +77,14 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: #fff;
+  background-color: #4d5ae5;
 }
 .title-btn:hover,
 .title-btn:focus {
-  background-color: #4d5ae5;
+  background-color: #404bbf;
+}
+.btn-text {
+  color: #fff;
 }
 .benefits-title {
   line-height: 1.2;
