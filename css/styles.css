@@ -81,7 +81,7 @@ body {
 }
 .title-btn:hover,
 .title-btn:focus {
-  background: #404bbf;
+  background-color: #4d5ae5;
 }
 .benefits-title {
   line-height: 1.2;
@@ -126,6 +126,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
+  color: #434455;
 }
 .portfolio-titles {
   font-weight: 500;
